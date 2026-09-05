@@ -6,17 +6,17 @@ const projects = [
   {
     title: 'Chatbot',
     description: 'Um chatbot inteligente desenvolvido para automatizar interações com usuários. Utiliza técnicas de processamento de linguagem natural e aprendizado de máquina.',
-    link: 'https://github.com/Bufetinhas/Chatbot'
+    link: 'https://github.com/Douglastir/Chatbot'
   },
   {
     title: 'Visão Computacional',
     description: 'Projeto que aplica técnicas de visão computacional para reconhecimento de imagens. Explorando o OpenCV e aprendizado profundo para detecção e classificação de objetos.',
-    link: 'https://github.com/Bufetinhas/Visao_computacional'
+    link: 'https://github.com/Douglastir/Visao_computacional'
   },
   {
     title: 'CRUD com Python e MySQL',
     description: 'Sistema CRUD desenvolvido em Python com integração ao MySQL, permitindo operações completas de gerenciamento de dados. Ideal para aprender sobre banco de dados e automação.',
-    link: 'https://github.com/Bufetinhas/CRUD-Py-MySQL'
+    link: 'https://github.com/Douglastir/CRUD-Py-MySQL'
   }
 ];
 

@@ -15,7 +15,7 @@ function Contact() {
 
       <div className="contact-links">
         <motion.a
-          href="https://github.com/Bufetinhas"
+          href="https://github.com/Douglastir"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-button github"
